@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyC5u80wO6iaPl8E9auM0IRXliYGKyDQHfU",
-  authDomain: "todo-b74fc.firebaseapp.com",
-  projectId: "todo-b74fc",
-  storageBucket: "todo-b74fc.appspot.com",
-  messagingSenderId: "872116099545",
-  appId: "1:872116099545:web:9bb66d12ca15f2f39521c8"
+  apiKey: "AIzaSyB-445Gn4NMyTDUkkQhYl2MnRcFKJ7ay2U",
+  authDomain: "tasker-c1ed2.firebaseapp.com",
+  projectId: "tasker-c1ed2",
+  storageBucket: "tasker-c1ed2.appspot.com",
+  messagingSenderId: "537283067984",
+  appId: "1:537283067984:web:1d2ed6bca0411cc4629155"
 };
 
 const app = initializeApp(firebaseConfig);
